@@ -1,0 +1,12 @@
+{
+	"app\/views\/index\/index.volt":
+	{
+		"type":"update",
+		"path":"http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/index\/index.volt"
+	},
+	"app\/views\/index\/newFile.volt":
+	{
+		"type":"add",
+		"path":"http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/index\/index.volt"
+	}
+}
