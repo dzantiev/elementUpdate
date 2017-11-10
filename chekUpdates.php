@@ -19,14 +19,9 @@ if(!empty($_REQUEST['version']))
 		}
 	}
 	if($hasUpdates)
-	{
 		echo json_encode(array('result'=>'success','hasUpdates'=>true,'msg'=>'Имеются обновления - '.end($versions)));
-	}
 	else
-	{
 		echo json_encode(array('result'=>'success','hasUpdates'=>false,'msg'=>'У вас последняя версия системы'));
-	}
 }
 else
 	echo json_encode(array('result'=>'error','msg'=>'empty version'));
-?>
