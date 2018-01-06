@@ -1,0 +1,50 @@
+{
+    "README.md": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=README.md"
+    },
+    "app\/config\/sysinfo.json": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/config\/sysinfo.json"
+    },
+    "app\/controllers\/AuthController.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/controllers\/AuthController.php"
+    },
+    "app\/controllers\/SettingsController.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/controllers\/SettingsController.php"
+    },
+    "app\/controllers\/TableController.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/controllers\/TableController.php"
+    },
+    "app\/fields\/FieldBase.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/FieldBase.php"
+    },
+    "app\/fields\/em_string\/EmStringField.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_string\/EmStringField.php"
+    },
+    "app\/fields\/felds": {
+        "type": "delete",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/felds"
+    },
+    "app\/plugins\/Fields.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/plugins\/Fields.php"
+    },
+    "app\/tviews\/em_sql\/EmSqlView.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/tviews\/em_sql\/EmSqlView.php"
+    },
+    "app\/views\/layouts\/enterForm.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/layouts\/enterForm.volt"
+    },
+    "app\/views\/layouts\/main.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/layouts\/main.volt"
+    }
+}

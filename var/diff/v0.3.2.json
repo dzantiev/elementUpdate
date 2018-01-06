@@ -1,0 +1,34 @@
+{
+    "app\/config\/sysinfo.json": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/config\/sysinfo.json"
+    },
+    "app\/controllers\/ControllerBase.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/controllers\/ControllerBase.php"
+    },
+    "app\/controllers\/SettingsController.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/controllers\/SettingsController.php"
+    },
+    "app\/controllers\/TableController.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/controllers\/TableController.php"
+    },
+    "app\/models\/EmViews.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/models\/EmViews.php"
+    },
+    "app\/views\/index\/index.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/index\/index.volt"
+    },
+    "app\/views\/layouts\/main.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/layouts\/main.volt"
+    },
+    "app\/views\/table\/filter.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/table\/filter.volt"
+    }
+}
