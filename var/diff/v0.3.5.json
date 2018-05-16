@@ -1,0 +1,10 @@
+{
+    "app\/config\/sysinfo.json": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/config\/sysinfo.json"
+    },
+    "app\/controllers\/SettingsController.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/controllers\/SettingsController.php"
+    }
+}

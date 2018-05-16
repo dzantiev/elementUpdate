@@ -1,0 +1,46 @@
+{
+    "migration": {
+        "type": "run",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=/run/v0.3.7/migrate.php&type=run"
+    },
+    "app\/config\/sysinfo.json": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/config\/sysinfo.json"
+    },
+    "app\/controllers\/SettingsController.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/controllers\/SettingsController.php"
+    },
+    "app\/controllers\/TableController.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/controllers\/TableController.php"
+    },
+    "app\/models\/EmTabs.php": {
+        "type": "add",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/models\/EmTabs.php"
+    },
+    "app\/plugins\/TableEditor.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/plugins\/TableEditor.php"
+    },
+    "app\/views\/layouts\/main.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/layouts\/main.volt"
+    },
+    "app\/views\/settings\/table.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/settings\/table.volt"
+    },
+    "app\/views\/settings\/tableSettings.volt": {
+        "type": "delete",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/settings\/tableSettings.volt"
+    },
+    "app\/views\/settings\/tableTabs.volt": {
+        "type": "add",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/settings\/tableTabs.volt"
+    },
+    "app\/views\/table\/edit.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/table\/edit.volt"
+    }
+}

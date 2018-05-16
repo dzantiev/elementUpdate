@@ -1,0 +1,26 @@
+{
+    "app\/config\/sysinfo.json": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/config\/sysinfo.json"
+    },
+    "app\/plugins\/TableEditor.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/plugins\/TableEditor.php"
+    },
+    "app\/views\/settings\/table.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/settings\/table.volt"
+    },
+    "app\/views\/table\/index.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/table\/index.volt"
+    },
+    "public\/css\/style.css": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=public\/css\/style.css"
+    },
+    "public\/scss\/components\/titleButtons.scss": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=public\/scss\/components\/titleButtons.scss"
+    }
+}

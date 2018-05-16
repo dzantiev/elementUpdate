@@ -1,0 +1,106 @@
+{
+    "README.md": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=README.md"
+    },
+    "app\/config\/sysinfo.json": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/config\/sysinfo.json"
+    },
+    "app\/controllers\/SettingsController.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/controllers\/SettingsController.php"
+    },
+    "app\/controllers\/TableController.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/controllers\/TableController.php"
+    },
+    "app\/fields\/em_file\/src\/js\/settings.js": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_file\/src\/js\/settings.js"
+    },
+    "app\/fields\/em_file\/views\/settingsForm.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_file\/views\/settingsForm.volt"
+    },
+    "app\/fields\/em_multy_node\/info.json": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_multy_node\/info.json"
+    },
+    "app\/fields\/em_node\/info.json": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_node\/info.json"
+    },
+    "app\/fields\/em_one_many_node\/EmOneManyNodeField.php": {
+        "type": "add",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_one_many_node\/EmOneManyNodeField.php"
+    },
+    "app\/fields\/em_one_many_node\/controllers\/IndexFController.php": {
+        "type": "add",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_one_many_node\/controllers\/IndexFController.php"
+    },
+    "app\/fields\/em_one_many_node\/info.json": {
+        "type": "add",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_one_many_node\/info.json"
+    },
+    "app\/fields\/em_one_many_node\/src\/init.js": {
+        "type": "add",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_one_many_node\/src\/init.js"
+    },
+    "app\/fields\/em_one_many_node\/src\/settings.js": {
+        "type": "add",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_one_many_node\/src\/settings.js"
+    },
+    "app\/fields\/em_one_many_node\/views\/field.volt": {
+        "type": "add",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_one_many_node\/views\/field.volt"
+    },
+    "app\/fields\/em_one_many_node\/views\/settingsForm.volt": {
+        "type": "add",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_one_many_node\/views\/settingsForm.volt"
+    },
+    "app\/fields\/em_one_many_node\/views\/value.volt": {
+        "type": "add",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_one_many_node\/views\/value.volt"
+    },
+    "app\/plugins\/TableEditor.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/plugins\/TableEditor.php"
+    },
+    "app\/views\/settings\/table.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/settings\/table.volt"
+    },
+    "app\/views\/table\/edit.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/table\/edit.volt"
+    },
+    "app\/views\/table\/index.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/table\/index.volt"
+    },
+    "app\/views\/table\/stringEditField.volt": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/views\/table\/stringEditField.volt"
+    },
+    "public\/css\/style.css": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=public\/css\/style.css"
+    },
+    "public\/js\/init.min.js": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=public\/js\/init.min.js"
+    },
+    "public\/js\/modules\/settings.js": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=public\/js\/modules\/settings.js"
+    },
+    "public\/scss\/components\/alerts.scss": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=public\/scss\/components\/alerts.scss"
+    },
+    "public\/scss\/components\/popups.scss": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=public\/scss\/components\/popups.scss"
+    }
+}

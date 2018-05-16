@@ -1,8 +1,8 @@
 M	app/config/sysinfo.json
-M	app/controllers/ControllerBase.php
 M	app/controllers/SettingsController.php
 M	app/controllers/TableController.php
-M	app/models/EmViews.php
-M	app/views/index/index.volt
-M	app/views/layouts/main.volt
-M	app/views/table/filter.volt
+M	app/models/EmTypes.php
+M	app/plugins/TableEditor.php
+M	app/views/settings/table.volt
+M	app/views/table/edit.volt
+M	app/views/table/index.volt

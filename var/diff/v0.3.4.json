@@ -1,0 +1,14 @@
+{
+    "app\/config\/sysinfo.json": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/config\/sysinfo.json"
+    },
+    "app\/fields\/em_node\/EmNodeField.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/fields\/em_node\/EmNodeField.php"
+    },
+    "app\/plugins\/TableEditor.php": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/plugins\/TableEditor.php"
+    }
+}

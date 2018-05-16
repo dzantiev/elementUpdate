@@ -1,0 +1,10 @@
+{
+    "migration": {
+        "type": "run",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=/run/v0.3.8/migrate.php&type=run"
+    },
+    "app\/config\/sysinfo.json": {
+        "type": "update",
+        "path": "http:\/\/element.woorkup.ru\/getFile.php?path=app\/config\/sysinfo.json"
+    }
+}
